@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**ItsSuvam/ItsSuvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Hi, I'm Suvam Chowdhury 👋
 
-Here are some ideas to get you started:
+### Founder @ [secmycli](https://github.com/secmycli) | Security Researcher
+I bridge the gap between complex digital threats and robust infrastructure security. With a deep focus on **VAPT, Cloud Security, and Network Hardening**, I don't just secure systems—I engineer resilience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Expertise
+* **VAPT:** Web Application Security, API Penetration Testing, Business Logic Assessment.
+* **Cloud Security:** M365 Security Hardening, Identity & Access Management (IAM).
+* **Networking:** Perimeter Security, Infrastructure Audits, Firewall Reviews.
+* **Tools:** Burp Suite, Nmap, Metasploit, PowerShell, Azure/M365 Security Center.
+
+---
+
+### 📈 What I'm Working On
+* **Security Research:** Developing automated scripts for infrastructure hardening.
+* **secmycli:** Building a scalable framework for professional security audits.
+* **Continuous Learning:** Keeping up with zero-day vulnerabilities and cloud governance.
+
+---
+
+### 🔗 Connect With Me
+* **LinkedIn:** [suvamchowdhury](https://www.linkedin.com/in/suvamchowdhury/)
+* **Organization:** [secmycli](https://github.com/secmycli)
+
+---
+
+> *“In security, we don't look for mistakes; we look for the stories behind them.”*!--
+
