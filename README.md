@@ -2,7 +2,7 @@
 
 <# Hi, I'm Suvam Chowdhury 👋
 
-### Founder @ [secmycli](https://github.com/secmycli) | Security Researcher
+### Founder @[secmycli](https://github.com/secmycli) | Security Researcher
 I bridge the gap between complex digital threats and robust infrastructure security. With a deep focus on **VAPT, Cloud Security, and Network Hardening**, I don't just secure systems—I engineer resilience.
 
 ---
