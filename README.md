@@ -48,6 +48,7 @@ suvam@secmycli:~$
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ItsSuvam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Github Snake](https://raw.githubusercontent.com/ItsSuvam/ItsSuvam/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
