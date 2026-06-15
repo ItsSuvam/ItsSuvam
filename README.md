@@ -3,6 +3,22 @@
 ### Founder @[secmycli](https://github.com/secmycli) | Security Researcher
 I bridge the gap between complex digital threats and robust infrastructure security. With a deep focus on **VAPT, Cloud Security, and Network Hardening**, I don't just secure systems—I engineer resilience.
 
+# Hi there 👋, I'm Suvam Chowdhury
+
+### Founder @[secmycli](https://github.com/secmycli) | Security Researcher
+
+```bash
+suvam@secmycli:~$ cat vision.conf
+
+[SECMYCLI]
+Status      = Building
+Current     = VAPT Services & Security Assessments
+Speciality  = Web Security | API Security | M365 Security Reviews
+Long-Term   = Cybersecurity Training & Professional Learning Platform
+Mission     = Helping organizations identify and remediate security risks
+
+suvam@secmycli:~$
+```
 ---
 
 ### 🛡 Core Expertise
