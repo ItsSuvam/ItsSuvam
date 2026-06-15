@@ -5,6 +5,25 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 
 ---
 
+### 🛡 Core Expertise
+* **Offensive Security:** Web Application & API Penetration Testing (VAPT), Business Logic Assessment.
+* **Cloud & Infrastructure:** M365 Security Hardening, Identity & Access Management (IAM), Perimeter Defense.
+* **Audit & Compliance:** Infrastructure Audits, Firewall & Switch Configuration Reviews, Hardening Frameworks.
+
+---
+
+### 📈 Current Focus
+* **secmycli:** Architecting a scalable framework to streamline professional security audits and infrastructure hardening.
+* **Security Research:** Analyzing emerging threats and developing automated scripts to defend against them.
+* **Continuous Learning:** Deep diving into zero-day vulnerabilities, cloud governance, and advanced red-teaming methodologies.
+
+---
+
+> *“In security, we don't look for mistakes; we look for the stories behind them.”*
+
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SuvamChowdhury) 
@@ -36,5 +55,5 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvamchowdhury/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suvamchowdhury9@gmail.com)
-
+[![Organization](https://img.shields.io/badge/Organization-secmycli-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/secmycli)
 > *“In security, we don't look for mistakes; we look for the stories behind them.”*
