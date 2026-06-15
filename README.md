@@ -36,65 +36,54 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvamchowdhury/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvamchowdhury9@gmail.com)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-# 💻 Languages & Scripting
+### 💻 Languages & Scripting
 
-![Python](...)
-![Bash Script](...)
-![JavaScript](...)
-![PowerShell](...)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-# 🐧 Operating Systems
+### 🐧 Operating Systems
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows Terminal](...)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 
-# 🌐 Web & Security Concepts
+### 🌐 Web & Security Concepts
 
-![HTML5](...)
-![JWT](...)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-# ☁️ Cloud & Infrastructure (Learning)
+### ☁️ Cloud & Infrastructure (Learning)
 
-![Azure](...)
-![Apache](...)
-![Nginx](...)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
 ### 🛡 Security Expertise
 
-![VAPT](https://img.shields.io/badge/VAPT-Web_Application_Security-blue?style=for-the-badge&logo=owasp&logoColor=white)
-![API Security](https://img.shields.io/badge/API_Security-Testing-orange?style=for-the-badge&logo=postman&logoColor=white)
-![OWASP Top 10](https://img.shields.io/badge/OWASP-Top_10-red?style=for-the-badge&logo=owasp&logoColor=white)
-![Auth Testing](https://img.shields.io/badge/Auth-Authorization_Testing-purple?style=for-the-badge&logo=auth0&logoColor=white)
-![Business Logic](https://img.shields.io/badge/Business_Logic-Assessment-darkgreen?style=for-the-badge)
-
-### ☁️ Cloud Security
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Security_Reviews-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-Identity_%26_Access_Management-5C2D91?style=for-the-badge&logo=microsoft-entra-id&logoColor=white)
-![Security Config](https://img.shields.io/badge/Security-Configuration_Assessments-success?style=for-the-badge)
-
-### 🌐 Network Security
-
-![Network VA](https://img.shields.io/badge/Network-Vulnerability_Assessments-red?style=for-the-badge)
-![Infrastructure Audit](https://img.shields.io/badge/Infrastructure-Audits-blueviolet?style=for-the-badge)
-![Firewall Review](https://img.shields.io/badge/Firewall-Security_Reviews-orange?style=for-the-badge)
+![VAPT](https://img.shields.io/badge/VAPT-00599C?style=flat-square)
+![API Security](https://img.shields.io/badge/API_Security-F97316?style=flat-square)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-E11D48?style=flat-square)
+![Auth Testing](https://img.shields.io/badge/Auth_Testing-7C3AED?style=flat-square)
+![Business Logic](https://img.shields.io/badge/Business_Logic-15803D?style=flat-square)
 
 ### 🔧 Security Tools
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-blue?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Scanner-00C176?style=for-the-badge)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability_Assessment-green?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-2563EB?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-16A34A?style=flat-square)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-15803D?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-0284C7?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 ### ⚙️ Security Automation
 
-![Python Automation](https://img.shields.io/badge/Python-Security_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash Automation](https://img.shields.io/badge/Bash-Recon_%26_Automation-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Recon](https://img.shields.io/badge/Reconnaissance-Automation-red?style=for-the-badge)
-![Vulnerability Validation](https://img.shields.io/badge/Vulnerability-Validation-success?style=for-the-badge)
+![Python Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash Automation](https://img.shields.io/badge/Bash_Automation-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Recon Automation](https://img.shields.io/badge/Recon_Automation-DC2626?style=flat-square)
+![Vulnerability Validation](https://img.shields.io/badge/Vulnerability_Validation-16A34A?style=flat-square)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ItsSuvam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
