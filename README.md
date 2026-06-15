@@ -13,14 +13,11 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 ---
 
 ### 📈 Current Focus
-* **secmycli:** Architecting a scalable framework to streamline professional security audits and infrastructure hardening.
-* **Security Research:** Analyzing emerging threats and developing automated scripts to defend against them.
-* **Continuous Learning:** Deep diving into zero-day vulnerabilities, cloud governance, and advanced red-teaming methodologies.
-
----
-
-> *“In security, we don't look for mistakes; we look for the stories behind them.”*
-
+* **Professional Development:** Completing **Practical Ethical Hacking (PEH)** and mastering **CRTOM** methodologies to sharpen advanced exploitation and audit techniques.
+* **Project Architecture:** Developing **[secmycli](https://github.com/secmycli)**, a custom framework designed to streamline and automate VAPT and infrastructure security audits for client organizations.
+* **Hands-on Experience:** Actively applying security practices during my internship, focusing on real-world incident response, vulnerability management, and infrastructure hardening.
+* **Skill Expansion:** Strengthening programming proficiency in **Python** and **JavaScript** to build more robust security automation and tools.
+*
 
 ---
 
