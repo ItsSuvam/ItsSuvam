@@ -84,7 +84,6 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 ![Bash Automation](https://img.shields.io/badge/Bash_Automation-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Recon Automation](https://img.shields.io/badge/Recon_Automation-DC2626?style=flat-square)
 ![Vulnerability Validation](https://img.shields.io/badge/Vulnerability_Validation-16A34A?style=flat-square)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ItsSuvam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ItsSuvam&theme=dark&hide_border=false)<br/>
