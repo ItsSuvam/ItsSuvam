@@ -30,8 +30,7 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 
 > *“In security, we don't look for mistakes; we look for the stories behind them.”*!--
 
-# 💫 About Me:
-🔭 Currently Working On → secmycli Framework<br><br>🌱 Currently Learning → Python, JavaScript, API Security, Cloud Security<br><br>💬 Ask Me About → VAPT, Bug Bounty, API Security, Microsoft 365 Security<br><br>⚡ Fun Fact → I enjoy hunting vulnerabilities.
+⚡ Fun Fact → I enjoy hunting vulnerabilities.
 
 
 ## 🌐 Socials:
