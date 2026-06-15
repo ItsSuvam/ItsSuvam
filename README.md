@@ -37,7 +37,29 @@ I bridge the gap between complex digital threats and robust infrastructure secur
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvamchowdhury9@gmail.com)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+# 💻 Languages & Scripting
+
+![Python](...)
+![Bash Script](...)
+![JavaScript](...)
+![PowerShell](...)
+
+# 🐧 Operating Systems
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows Terminal](...)
+
+# 🌐 Web & Security Concepts
+
+![HTML5](...)
+![JWT](...)
+
+# ☁️ Cloud & Infrastructure (Learning)
+
+![Azure](...)
+![Apache](...)
+![Nginx](...)
 ### 🛡 Security Expertise
 
 ![VAPT](https://img.shields.io/badge/VAPT-Web_Application_Security-blue?style=for-the-badge&logo=owasp&logoColor=white)
