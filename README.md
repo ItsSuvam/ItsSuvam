@@ -20,8 +20,6 @@ suvam@secmycli:~$
 ### 🛡 Core Expertise
 * **Offensive Security:** Web Application & API Penetration Testing (VAPT), Business Logic Assessment.
 * **Cloud & Infrastructure:** M365 Security Hardening, Identity & Access Management (IAM), Perimeter Defense.
-* **Audit & Compliance:** Infrastructure Audits, Firewall & Switch Configuration Reviews, Hardening Frameworks.
-
 ---
 
 ### 📈 Current Focus
