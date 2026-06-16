@@ -23,7 +23,6 @@ suvam@secmycli:~$
 ---
 
 ### 📈 Current Focus
-* **Professional Development:** Completing **Practical Ethical Hacking (PEH)** and mastering **CRTOM** methodologies to sharpen advanced exploitation and audit techniques.
 * **Founder & Project Architecture:** Building **[secmycli](https://github.com/secmycli)**, a cybersecurity venture focused on VAPT services, security consulting, and infrastructure security assessments, with a long-term vision of creating industry-focused cybersecurity courses, training programs, and professional learning resources.
 * **Hands-on Experience:** Actively applying security practices during my internship, focusing on real-world incident response, vulnerability management, and infrastructure hardening.
 * **Skill Expansion:** Strengthening programming proficiency in **Python** and **JavaScript** to build more robust security automation and tools.
