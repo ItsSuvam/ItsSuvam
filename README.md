@@ -93,7 +93,7 @@ We specialize in protecting organizations where security breaches mean disrupted
 Are you prepping for a compliance audit, onboarding a major client, or launching a new app/portal? Let's talk.
 
 *   **Assessor:** Suvam Chowdhury
-*   **Email:** chowdhurysuvam07@gmail.com
+*   **Email:** suvamsecurity@gmail.com
 *   **LinkedIn:** linkedin.com/in/suvamchowdhury
 
 ---
@@ -127,5 +127,5 @@ Are you prepping for a compliance audit, onboarding a major client, or launching
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvamchowdhury/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhurysuvam07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suvamsecurity@gmail.com)
 > *“In security, we don't look for mistakes; we look for the stories behind them.”*
